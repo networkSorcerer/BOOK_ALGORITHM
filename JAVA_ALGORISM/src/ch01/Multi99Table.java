@@ -1,4 +1,4 @@
-package ch01_01;
+package ch01;
 
 public class Multi99Table {
 	public static void main(String [] args ) {

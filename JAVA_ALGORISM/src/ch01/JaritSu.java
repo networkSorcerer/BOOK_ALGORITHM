@@ -1,4 +1,4 @@
-package ch01_01;
+package ch01;
 
 import java.util.Scanner;
 //잘 몰라서 이상하게 풀고 챗에게 물어봄

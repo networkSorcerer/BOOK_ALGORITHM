@@ -1,4 +1,4 @@
-package ch01_01;
+package ch01;
 
 class Max3Method {
 	static int max3(int a, int b, int c) {
